@@ -4,7 +4,7 @@ A web based application that provides key statistics for Bitcoin wallets
 
 ## Motivation
 
-Lorem ipsum.
+This is a portfolio project for developers wishing to transition into the bitcoin space. Consider it practice on interacting with the bitcoin network.
 
 ## Tech/framework used
 
