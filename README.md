@@ -12,7 +12,7 @@ React
 
 ## Features
 
-Lorem ipsum.
+This application allows you to search, within certain parameters, the size and distribution of bitcoin wallets on the network.
 
 ## Project Installation
 
