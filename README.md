@@ -12,7 +12,7 @@ React
 
 ## Features
 
-This application allows you to search, within certain parameters, the size and distribution of bitcoin wallets on the network.
+This application allows you to search the size and distribution of bitcoin wallets on the network. You can also find your own wallet, based on it's public address, to find it's holdings.
 
 ## Project Installation
 
