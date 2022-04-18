@@ -1,6 +1,6 @@
 ## BTC Wallet Statistics
 
-A web based application that provides key statistics for Bitcoin wallets
+A web based application that provides key statistics for Bitcoin wallets such as balance, age, and transaction history.
 
 ## Motivation
 
