@@ -38,20 +38,21 @@ You may also see any lint errors in the console.
 
 ## How to Use
 
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
+1. Use the UI to search for the desired wallet data
+2. Submit
+3. View data
 
 ## Contribute
 
-Contribute to this project by....
+Contribute to this project by forking then cloning and creating your own version. 
 
 ## License
 
-MIT ©peterdavidconley
+©MIT 
 
 ## Contributors
 
+By [Peter Conley](https://github.com/peterdavidconley)
 
 
 
