@@ -1,6 +1,6 @@
 ## BTC Wallet Statistics
 
-A web based application that provides key statistics for Bitcoin wallets such as balance, age, and transaction history.
+A web based application that provides key searchable statistics for Bitcoin wallets such as balance, age, and transaction history.
 
 ## Motivation
 
@@ -38,9 +38,10 @@ You may also see any lint errors in the console.
 
 ## How to Use
 
-1. Use the UI to search for the desired wallet data
-2. Submit
-3. View data
+1. Fork this repo to create your own project
+2. Use the UI to search for the desired wallet data
+3. Submit
+4. View data
 
 ## Contribute
 
