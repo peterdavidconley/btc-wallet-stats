@@ -28,13 +28,7 @@ You may also see any lint errors in the console.
 
 ## API Reference
 
-#### Front End Deployment
 
-()
-
-#### Backend API
-
-()
 
 ## How to Use
 
@@ -45,7 +39,7 @@ You may also see any lint errors in the console.
 
 ## Contribute
 
-Contribute to this project by forking then cloning and creating your own version. 
+Contribute to this project by forking then cloning and creating your own version. No permission needed.
 
 ## License
 
